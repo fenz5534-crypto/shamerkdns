@@ -1,0 +1,22 @@
+<!DOCTYPE plist PUBLIC “-//Apple//DTD PLIST 1.0//EN”
+“http://www.apple.com/DTDs/PropertyList-1.0.dtd”>
+
+PayloadContent DNSSettings DNSProtocol HTTPS ServerURL
+https://nulls.proxy.dns/dns-query
+
+    <key>PayloadDescription</key>
+    <string>DNS profile for Supercell private servers</string>
+    <key>PayloadDisplayName</key>
+    <string>Dns Shamerk (Game supercell)</string>
+    <key>PayloadIdentifier</key>
+    <string>com.shamerk.dns</string>
+    <key>PayloadType</key>
+    <string>com.apple.dnsSettings.managed</string>
+    <key>PayloadUUID</key>
+    <string>3F2504E0-4F89-11D3-9A0C-0305E82C3301</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+
+PayloadDisplayName Dns Shamerk (Game supercell) PayloadIdentifier
+com.shamerk.profile PayloadRemovalDisallowed PayloadType Configuration
+PayloadUUID 7D444840-9DC0-11D1-B245-5FFDCE74FAD2 PayloadVersion 1
