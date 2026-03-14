@@ -44,7 +44,7 @@
 <string>HTTPS</string>
 
 <key>ServerURL</key>
-<string>https://nulls.proxy.dns/dns-query</string>
+<string>https://dns.nullsproxy.com/dns-query</string>
 
 </dict>
 
